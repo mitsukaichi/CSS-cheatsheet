@@ -1,0 +1,32 @@
+* {
+    background-color: darkgray;
+}
+
+header{
+    text-align: center;
+    color: darkviolet;
+    font-size: 200%;
+}
+
+header p{
+    color: white;
+    font-size: 75%;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article{
+   border: medium dotted white;
+}
+
+h2{
+    border: medium solid white;
+    border-radius: 10px;
+}
+
+.container{
+    margin: 20px;
+}
